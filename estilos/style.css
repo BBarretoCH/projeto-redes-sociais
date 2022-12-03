@@ -50,6 +50,7 @@ section#botoes img{
     border-radius: 50%;
     margin: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.295);
+    
 }
 
 section#botoes img:hover {
